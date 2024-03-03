@@ -2,6 +2,9 @@
 - 🔭 I’m currently working on frontend projects
 - 🌱 I’m currently learning mern-stack 
 - 👯 I’m looking to collaborate on test
+
+
+🌱 I’m currently learning flutter development
 - 📫 How to reach me: shrivarshancsv@gmail.com
 
 <!--

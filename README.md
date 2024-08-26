@@ -1,16 +1,15 @@
 ## Hi there  It's me Shri
 # 💫 About Me:
 <div style="display: flex; align-items: center;">
+     <img align="right"  src="https://media1.tenor.com/m/EYlncSVM2w0AAAAC/ech-echop.gif" alt="GIF" width="300" style="margin-left: 20px; />
   <div>
     Hi there<br>
     🔭 I’m currently working on frontend projects<br>
     👯 I’m looking to collaborate on fullstack projects<br>
     🌱 I’m currently learning flutter app development
   </div>
-  <div>
-    <img align="right"  src="https://media1.tenor.com/m/EYlncSVM2w0AAAAC/ech-echop.gif" alt="GIF" width="300" style="margin-left: 20px; />
-  </div>
-</div>
+ </div>
+
 
 
 

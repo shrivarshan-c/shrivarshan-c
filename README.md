@@ -1,14 +1,16 @@
 ## Hi there  It's me Shri
 # 💫 About Me:
 
-<div style="overflow: auto; padding-bottom: 20px; height:600px; position: relative;">
-  <img align="right" src="https://media1.tenor.com/m/EYlncSVM2w0AAAAC/ech-echop.gif" alt="GIF" width="300" style="position: absolute; top: 0; right: 0; margin-left: 20px;"/>
-  
-  Hi there<br>
-  🔭 I’m currently working on frontend projects<br>
-  👯 I’m looking to collaborate on fullstack projects<br>
-  🌱 I’m currently learning react native app development
-</div>
+Hi there 👋
+
+🔭 I'm currently working on frontend projects &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media1.tenor.com/m/EYlncSVM2w0AAAAC/ech-echop.gif" width="300" align="right" height="200" />
+
+👯 I'm looking to collaborate on fullstack projects
+
+🌱 I'm currently learning flutter app development
+
+<br><br>
+
 
 
 
